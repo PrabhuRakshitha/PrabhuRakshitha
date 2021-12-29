@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakshitha
-- 👀 I’m interested in devloping backend application in python
-- 🌱 I’m currently learning AWS, EC2
+- 👀 I’m interested in ...
+- 🌱 I’m currently ..
 - 📫 How to reach me ...
 
 <!---
