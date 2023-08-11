@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rakshitha
+- 👋 Hi, I’m Rakshitha,
 Experienced Software Engineer | Python & Django | Problem Solver | Passionate about innovation and collaboration.
 <!---
 PrabhuRakshitha/PrabhuRakshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
