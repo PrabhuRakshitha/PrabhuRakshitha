@@ -7,7 +7,7 @@
 ## 📌 About Me  
 - 💻 Currently working at **Pantheon** as a Backend Engineer  
 - 🏗️ Experience building scalable systems & microservices  
-- 🛠️ Worked on metering, entitlement, and billing systems  
+- 🛠️ Working on entitlement, and billing systems  
 - 🔍 Exploring **GraphQL federation** and **OpenMeter**  
 - 🎯 Focused on **performance optimization** and **system reliability**  
 
@@ -20,8 +20,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ## 📂 Projects  
-🔹 **[Project Name](#)** – Brief description of the project  
-🔹 **[Another Project](#)** – Another brief description  
+🔹 **[COVID Visualization](https://github.com/PrabhuRakshitha/COVID-Visualization)** – An interactive visualization project for COVID-19 data.  
+
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshitha-prabhu-28940640/)  
